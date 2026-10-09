@@ -20,8 +20,8 @@ var html='';
 html+='<section class="panel" aria-labelledby="pn"><div class="hero-card"><div class="lvl" title="King level"><span>'+fmt(P.expLevel)+'</span></div><div><h1 class="pname" id="pn">'+CR.esc(P.name)+'</h1><div class="ptag">'+CR.esc(P.tag)+'</div>'+
   (P.clan?'<div class="clanline">🛡️ '+CR.esc(P.clan.name)+(P.role?' <span class="muted">· '+CR.esc(P.role.replace(/([A-Z])/g,' $1').toLowerCase())+'</span>':'')+'</div>':'<div class="clanline muted">No clan</div>')+'</div></div>'+
   '<div class="trophybig">'+TROPHY+fmt(P.trophies)+'</div><div class="arena">'+CR.esc(P.arena&&P.arena.name||'')+'</div>'+
-  '<div class="kv">'+stat(fmt(P.bestTrophies),'Best trophies')+stat(fmt(w),'Wins')+stat(fmt(l),'Losses')+stat(fmt(P.threeCrownWins),'3-crown wins')+'</div>'+
-  '<div class="wr" role="img" aria-label="Win rate '+wr+'%"><i style="width:'+wr+'%"></i></div><p class="small muted" style="margin:6px 0 0">'+wr+'% win rate over '+fmt(P.battleCount)+' battles'+(M.updated?' · updated '+ago(new Date(M.updated)):'')+'</p></section>';
+  '<div class="kv">'+stat(fmt(P.bestTrophies),'Best trophies')+stat(fmt(w),'Wins')+stat(fmt(l),'Losses')+stat(fmt(P.threeCrownWins),'3-crown wins')+(P.currentPathOfLegendSeasonResult?stat(P.currentPathOfLegendSeasonResult.leagueNumber||'–','Ranked league now')+stat((P.bestPathOfLegendSeasonResult&&P.bestPathOfLegendSeasonResult.leagueNumber)||'–','Best ranked league'):'')+'</div>'+
+  '<div class="wr" role="img" aria-label="Win rate '+wr+'%"><i style="width:'+wr+'%"></i></div><p class="small muted" style="margin:6px 0 0">'+wr+'% win rate over '+fmt(P.battleCount)+' battles'+(M.updated?' · updated '+ago(new Date(M.updated)):'')+(P.currentFavouriteCard?' · favourite card: '+CR.esc(P.currentFavouriteCard.name):'')+'</p></section>';
 if(deckIds.length){
   var cards=(P.currentDeck||[]).map(function(pc){return CR.card(pc.id)||{elixir:pc.elixirCost};});
   html+='<section class="panel" aria-labelledby="cd"><div class="panel-h"><h2 id="cd">Current Deck</h2><span class="muted small">'+CR.avg(cards).toFixed(1)+' avg ⚡ · cycle '+CR.cycle(cards)+'</span></div><div class="deck">'+
@@ -30,9 +30,9 @@ if(deckIds.length){
    '</div><div class="actions"><a class="btn" href="'+CR.builderLink(deckIds)+'">🛠️ Open in builder</a><a class="btn gold" href="'+CR.gameLink(deckIds)+'">⚔️ Copy to game</a></div></section>';
 }
 if(B.length){
-  html+='<section class="panel" aria-labelledby="rb"><div class="panel-h"><h2 id="rb">Recent Battles</h2><span class="muted small">last '+Math.min(B.length,15)+'</span></div><ul class="battles">'+
-  B.slice(0,15).map(function(b){var me=(b.team||[])[0]||{},op=(b.opponent||[])[0]||{};var mc=me.crowns||0,oc=op.crowns||0;var r=mc>oc?'win':mc<oc?'loss':'draw';
-    var mode=(b.gameMode&&b.gameMode.name||b.type||'').replace(/_/g,' ');var tc=me.trophyChange;
+  html+='<section class="panel" aria-labelledby="rb"><div class="panel-h"><h2 id="rb">Recent Battles</h2><span class="muted small">last '+Math.min(B.length,10)+'</span></div><ul class="battles">'+
+  B.slice(0,10).map(function(b){var me=(b.team||[])[0]||{},op=(b.opponent||[])[0]||{};var mc=me.crowns||0,oc=op.crowns||0;var r=mc>oc?'win':mc<oc?'loss':'draw';
+    var mode=b.type==='pathOfLegend'?'Path of Legends':/ranked/i.test(b.gameMode&&b.gameMode.name||'')?'Ranked':(b.gameMode&&b.gameMode.name||b.type||'').replace(/_/g,' ').replace(/([a-z])([A-Z])/g,'$1 $2');var tc=me.trophyChange;
     return '<li class="battle '+r+'"><span class="bar"></span><div><div class="res">'+(r==='win'?'Victory':r==='loss'?'Defeat':'Draw')+'</div><div class="meta">vs '+CR.esc(op.name||'?')+' · '+CR.esc(mode)+' · '+ago(parseT(b.battleTime))+'</div></div><div><div class="crowns">'+mc+' – '+oc+'</div>'+(tc!=null?'<div class="delta" style="color:'+(tc>=0?'var(--green)':'var(--red)')+'">'+(tc>0?'+':'')+tc+' 🏆</div>':'')+'</div></li>';}).join('')+'</ul></section>';
 }
 root.innerHTML=html;
