@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-09T13:01:26.799Z",
+  "updated": "2026-10-09T20:08:02.273Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -12,8 +12,8 @@
   "trophies": 14000,
   "bestTrophies": 14000,
   "wins": 4368,
-  "losses": 4083,
-  "battleCount": 8451,
+  "losses": 4084,
+  "battleCount": 8452,
   "threeCrownWins": 1993,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 119,
-  "totalDonations": 46507,
+  "donations": 171,
+  "totalDonations": 46559,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,14 +39,15 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000006,
-   "name": "Balloon",
-   "maxLevel": 11,
-   "elixirCost": 5,
-   "rarity": "epic",
+   "id": 26000011,
+   "name": "Valkyrie",
+   "maxLevel": 14,
+   "elixirCost": 4,
+   "rarity": "rare",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png",
-    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
+    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
+    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
    }
   },
   "currentDeck": [
@@ -153,6 +154,43 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261009T152118.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "dr fentanilo",
+     "tag": "#2PYQ0CLP",
+     "crowns": 1,
+     "cards": [
+      26000064,
+      26000000,
+      27000012,
+      28000018,
+      26000021,
+      28000001,
+      26000007,
+      28000004
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261009T044717.000Z",
@@ -1052,43 +1090,6 @@
       28000011,
       26000021,
       28000000
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261005T120715.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "HistoryzZ",
-     "tag": "#VPLQC8LV2",
-     "crowns": 1,
-     "cards": [
-      26000064,
-      26000000,
-      26000055,
-      26000084,
-      26000005,
-      26000010,
-      26000021,
-      28000011
      ]
     }
    ]
