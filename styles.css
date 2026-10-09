@@ -31,7 +31,7 @@ main{max-width:980px;margin:0 auto;padding:14px 12px 110px}
 .badge{position:absolute;right:2px;bottom:4px;font-family:"Lilita One";font-size:10px;padding:1px 5px;border-radius:6px;background:#000b;color:var(--gold);letter-spacing:.4px}
 .badge.hero{color:#ffb3ff}
 /* deck */
-.deck{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.deck{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
 .slot{position:relative;border-radius:12px;background:#0a1a44;border:2px dashed #ffffff26;aspect-ratio:150/221;display:grid;place-items:center}
 .slot.filled{border:2px solid transparent;background:none}
 .slot .num{font-family:"Lilita One";color:#ffffff33;font-size:24px}
@@ -67,10 +67,10 @@ main{max-width:980px;margin:0 auto;padding:14px 12px 110px}
 .chip{flex:0 0 auto;font:600 13px system-ui;padding:7px 11px;border-radius:999px;border:1px solid #ffffff33;background:#ffffff10;color:var(--text);cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--gold);color:#2b1a00;border-color:#000}
 .chip .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:0}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px 8px}
-@media(min-width:600px){.grid{grid-template-columns:repeat(6,1fr)}}
-@media(min-width:860px){.grid{grid-template-columns:repeat(8,1fr)}.layout{display:grid;grid-template-columns:380px 1fr;gap:14px;align-items:start}.layout .panel+.panel{margin-top:0}.sticky{position:sticky;top:70px}}
-.pick{display:flex;flex-direction:column;align-items:center;gap:2px}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px 8px}
+@media(min-width:600px){.grid{grid-template-columns:repeat(6,minmax(0,1fr))}}
+@media(min-width:860px){.grid{grid-template-columns:repeat(8,minmax(0,1fr))}.layout{display:grid;grid-template-columns:380px 1fr;gap:14px;align-items:start}.layout .panel+.panel{margin-top:0}.sticky{position:sticky;top:70px}}
+.pick{min-width:0;display:flex;flex-direction:column;align-items:center;gap:2px}
 .pick .name{font-size:11px;text-align:center;line-height:1.15;color:var(--muted);max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .pick .card[aria-pressed="true"] img{opacity:.35;filter:grayscale(.6)}
 .pick .card[aria-pressed="true"]::after{content:"✓";position:absolute;inset:0;display:grid;place-items:center;font:900 34px system-ui;color:var(--green);text-shadow:0 2px 0 #000}
