@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-11T05:51:28.885Z",
+  "updated": "2026-10-11T12:55:17.563Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -12,8 +12,8 @@
   "trophies": 14000,
   "bestTrophies": 14000,
   "wins": 4371,
-  "losses": 4087,
-  "battleCount": 8458,
+  "losses": 4090,
+  "battleCount": 8461,
   "threeCrownWins": 1993,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 227,
-  "totalDonations": 46615,
+  "donations": 247,
+  "totalDonations": 46635,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,14 +39,14 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000024,
-   "name": "Royal Giant",
+   "id": 27000006,
+   "name": "Tesla",
    "maxLevel": 16,
-   "elixirCost": 6,
+   "elixirCost": 4,
    "rarity": "common",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png",
-    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png",
+    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
    }
   },
   "currentDeck": [
@@ -153,6 +153,117 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261011T064731.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "정상수",
+     "tag": "#PJPY28P80",
+     "crowns": 3,
+     "cards": [
+      26000064,
+      26000011,
+      26000030,
+      28000000,
+      26000021,
+      28000011,
+      27000003,
+      26000010
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261011T064304.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "WOLFSONG",
+     "tag": "#22P8GCYCL",
+     "crowns": 1,
+     "cards": [
+      26000044,
+      26000000,
+      26000026,
+      26000107,
+      28000015,
+      28000000,
+      26000030,
+      26000010
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261011T063711.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1
+    }
+   ],
+   "opponent": [
+    {
+     "name": "justin",
+     "tag": "#V2GVCRV2J",
+     "crowns": 2,
+     "cards": [
+      26000012,
+      26000017,
+      26000064,
+      26000055,
+      27000006,
+      28000007,
+      26000008,
+      26000051
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261010T044845.000Z",
@@ -976,119 +1087,6 @@
       26000016,
       26000042,
       28000008
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261008T060023.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Ascoli Piceno",
-     "tag": "#UUPPPRGUC",
-     "crowns": 2,
-     "cards": [
-      26000064,
-      26000018,
-      26000011,
-      26000007,
-      26000019,
-      28000026,
-      26000021,
-      26000013
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261008T055204.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "surge 92",
-     "tag": "#20GQR8CQ8U",
-     "crowns": 0,
-     "cards": [
-      26000047,
-      26000017,
-      26000008,
-      26000102,
-      26000028,
-      26000012,
-      26000026,
-      28000006
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261008T054648.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "塩ムンチュ",
-     "tag": "#YPYGV2RGU",
-     "crowns": 0,
-     "cards": [
-      26000013,
-      26000000,
-      27000000,
-      28000001,
-      28000000,
-      26000058,
-      27000013,
-      26000010
      ]
     }
    ]
