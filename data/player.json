@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-19T13:23:16.306Z",
+  "updated": "2026-10-19T20:36:41.598Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,10 +11,10 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4392,
-  "losses": 4115,
-  "battleCount": 8507,
-  "threeCrownWins": 1998,
+  "wins": 4393,
+  "losses": 4117,
+  "battleCount": 8510,
+  "threeCrownWins": 1999,
   "arena": {
    "id": 54000144,
    "name": "Spirit Square",
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 79,
-  "totalDonations": 46978,
+  "donations": 89,
+  "totalDonations": 46988,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,15 +39,13 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000014,
-   "name": "Musketeer",
-   "maxLevel": 14,
-   "elixirCost": 4,
-   "rarity": "rare",
+   "id": 28000007,
+   "name": "Lightning",
+   "maxLevel": 11,
+   "elixirCost": 6,
+   "rarity": "epic",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
-    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
-    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
    }
   },
   "currentDeck": [
@@ -155,6 +153,117 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "trail",
+   "battleTime": "20261019T152356.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "حـرامـي",
+     "tag": "#VG0C0UPUC",
+     "crowns": 1,
+     "cards": [
+      28000004,
+      28000016,
+      26000063,
+      28000000,
+      26000057,
+      26000017,
+      27000007,
+      26000084
+     ]
+    }
+   ]
+  },
+  {
+   "type": "trail",
+   "battleTime": "20261019T151907.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "⚡️Thor⚡️",
+     "tag": "#8Y2988VJ",
+     "crowns": 2,
+     "cards": [
+      26000052,
+      26000106,
+      26000037,
+      26000087,
+      28000003,
+      26000063,
+      28000002,
+      26000096
+     ]
+    }
+   ]
+  },
+  {
+   "type": "trail",
+   "battleTime": "20261019T151428.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 3
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Daniel assasino",
+     "tag": "#L9JY0JRV",
+     "crowns": 0,
+     "cards": [
+      26000032,
+      28000009,
+      28000026,
+      26000046,
+      26000063,
+      26000061,
+      27000000,
+      26000101
+     ]
+    }
+   ]
+  },
   {
    "type": "trail",
    "battleTime": "20261019T100018.000Z",
@@ -982,118 +1091,6 @@
       26000083,
       28000008,
       26000010
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261016T044733.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 3,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "lazaro21",
-     "tag": "#CVRR8QLV8",
-     "crowns": 1,
-     "cards": [
-      26000047,
-      26000006,
-      26000011,
-      26000035,
-      28000008,
-      26000057,
-      26000052,
-      28000000
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261016T044405.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Padre Maronno",
-     "tag": "#CRYQ8G0Y",
-     "crowns": 1,
-     "cards": [
-      26000036,
-      26000074,
-      26000043,
-      28000001,
-      26000041,
-      28000000,
-      26000049,
-      26000040
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261016T044018.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Astaroth",
-     "tag": "#V9YLP8U9R",
-     "crowns": 2,
-     "cards": [
-      26000007,
-      26000027,
-      26000055,
-      28000017,
-      26000084,
-      26000040,
-      27000000,
-      26000012
      ]
     }
    ]
