@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-19T04:45:41.665Z",
+  "updated": "2026-10-19T13:23:16.306Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4391,
+  "wins": 4392,
   "losses": 4115,
-  "battleCount": 8506,
+  "battleCount": 8507,
   "threeCrownWins": 1998,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 54,
-  "totalDonations": 46953,
+  "donations": 79,
+  "totalDonations": 46978,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -155,6 +155,43 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "trail",
+   "battleTime": "20261019T100018.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Khalid",
+     "tag": "#L9UU8YPPY",
+     "crowns": 0,
+     "cards": [
+      26000040,
+      28000015,
+      28000004,
+      26000017,
+      26000061,
+      26000039,
+      28000003,
+      27000012
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261019T025534.000Z",
@@ -1057,44 +1094,6 @@
       26000040,
       27000000,
       26000012
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261015T115525.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "✨MW~I K~✨",
-     "tag": "#92L0PJUQJ",
-     "crowns": 0,
-     "cards": [
-      26000010,
-      26000014,
-      26000021,
-      26000030,
-      28000000,
-      28000011,
-      26000038,
-      27000000
      ]
     }
    ]
