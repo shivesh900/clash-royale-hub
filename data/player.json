@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-21T04:54:01.122Z",
+  "updated": "2026-10-21T11:54:51.867Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -12,8 +12,8 @@
   "trophies": 14000,
   "bestTrophies": 14000,
   "wins": 4393,
-  "losses": 4121,
-  "battleCount": 8514,
+  "losses": 4122,
+  "battleCount": 8515,
   "threeCrownWins": 1999,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 127,
-  "totalDonations": 47026,
+  "donations": 153,
+  "totalDonations": 47052,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,15 +39,13 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000011,
-   "name": "Valkyrie",
+   "id": 28000003,
+   "name": "Rocket",
    "maxLevel": 14,
-   "elixirCost": 4,
+   "elixirCost": 6,
    "rarity": "rare",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
-    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
-    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
    }
   },
   "currentDeck": [
@@ -155,6 +153,43 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "trail",
+   "battleTime": "20261021T115347.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Baran",
+     "tag": "#99QGQ2L2",
+     "crowns": 2,
+     "cards": [
+      28000012,
+      28000009,
+      26000034,
+      27000005,
+      26000009,
+      26000040,
+      27000007,
+      26000101
+     ]
+    }
+   ]
+  },
   {
    "type": "trail",
    "battleTime": "20261021T045222.000Z",
@@ -1053,44 +1088,6 @@
       28000001,
       26000005,
       26000052
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261017T055058.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 3,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "CASH",
-     "tag": "#P8UQCRJ8V",
-     "crowns": 0,
-     "cards": [
-      27000000,
-      26000000,
-      26000026,
-      26000041,
-      28000004,
-      26000030,
-      28000011,
-      28000003
      ]
     }
    ]
