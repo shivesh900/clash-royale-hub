@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-20T23:55:24.906Z",
+  "updated": "2026-10-21T04:54:01.122Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -12,8 +12,8 @@
   "trophies": 14000,
   "bestTrophies": 14000,
   "wins": 4393,
-  "losses": 4117,
-  "battleCount": 8510,
+  "losses": 4121,
+  "battleCount": 8514,
   "threeCrownWins": 1999,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 89,
-  "totalDonations": 46988,
+  "donations": 127,
+  "totalDonations": 47026,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,13 +39,15 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 28000007,
-   "name": "Lightning",
-   "maxLevel": 11,
-   "elixirCost": 6,
-   "rarity": "epic",
+   "id": 26000011,
+   "name": "Valkyrie",
+   "maxLevel": 14,
+   "elixirCost": 4,
+   "rarity": "rare",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
+    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png",
+    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
    }
   },
   "currentDeck": [
@@ -153,6 +155,154 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "trail",
+   "battleTime": "20261021T045222.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "FERNANDO A.",
+     "tag": "#CR9CGPPV",
+     "crowns": 3,
+     "cards": [
+      28000026,
+      27000001,
+      28000009,
+      26000064,
+      26000039,
+      26000043,
+      26000001,
+      26000026
+     ]
+    }
+   ]
+  },
+  {
+   "type": "trail",
+   "battleTime": "20261021T044821.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "captain general",
+     "tag": "#QQ0PYRR",
+     "crowns": 1,
+     "cards": [
+      26000014,
+      26000004,
+      27000007,
+      28000004,
+      28000017,
+      28000003,
+      27000012,
+      26000023
+     ]
+    }
+   ]
+  },
+  {
+   "type": "trail",
+   "battleTime": "20261021T044354.000Z",
+   "gameMode": {
+    "id": 72000505,
+    "name": "Chaos_1v1_Draft"
+   },
+   "arena": {
+    "id": 54000151,
+    "name": "Casual League",
+    "rawName": "Arena_chaosRandomPool"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Alejandro LM",
+     "tag": "#2RLY2LJJV",
+     "crowns": 1,
+     "cards": [
+      26000106,
+      27000001,
+      26000063,
+      28000014,
+      27000005,
+      28000016,
+      27000007,
+      28000010
+     ]
+    }
+   ]
+  },
+  {
+   "type": "trail",
+   "battleTime": "20261021T041813.000Z",
+   "gameMode": {
+    "id": 72000532,
+    "name": "Event_GlobalLightning_EventDeck"
+   },
+   "arena": {
+    "id": 54000086,
+    "name": "Legendary Arena",
+    "rawName": "Arena_Electric2_March_GlobalLightning"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "シ︎ᴄᴀʀʟᴏs★",
+     "tag": "#RLJRRGRC2",
+     "crowns": 1,
+     "cards": [
+      26000024,
+      26000000,
+      26000023,
+      28000007,
+      26000064,
+      26000037,
+      28000015,
+      28000001
+     ]
+    }
+   ]
+  },
   {
    "type": "trail",
    "battleTime": "20261019T152356.000Z",
@@ -941,156 +1091,6 @@
       26000030,
       28000011,
       28000003
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261017T054837.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "کیا و چیا",
-     "tag": "#2L9C2QUY",
-     "crowns": 1,
-     "cards": [
-      28000017,
-      26000011,
-      26000014,
-      26000038,
-      26000006,
-      28000015,
-      27000003,
-      26000032
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261017T054158.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Alejandro",
-     "tag": "#U2LUY0U09",
-     "crowns": 0,
-     "cards": [
-      26000022,
-      27000009,
-      26000045,
-      26000016,
-      26000055,
-      28000002,
-      26000021,
-      26000064
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261016T163453.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "BLANCO BOX",
-     "tag": "#899LVGY8V",
-     "crowns": 1,
-     "cards": [
-      26000064,
-      26000027,
-      26000036,
-      28000001,
-      26000016,
-      26000012,
-      26000022,
-      28000007
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261016T163001.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "ÜÑĪX",
-     "tag": "#8202JCCVL",
-     "crowns": 0,
-     "cards": [
-      26000055,
-      26000074,
-      26000004,
-      26000042,
-      26000021,
-      26000083,
-      28000008,
-      26000010
      ]
     }
    ]
