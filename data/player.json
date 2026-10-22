@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-22T04:53:36.772Z",
+  "updated": "2026-10-22T11:57:28.722Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4395,
+  "wins": 4397,
   "losses": 4125,
-  "battleCount": 8520,
+  "battleCount": 8522,
   "threeCrownWins": 1999,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 163,
-  "totalDonations": 47062,
+  "donations": 171,
+  "totalDonations": 47070,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,14 +39,13 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000034,
-   "name": "Bowler",
-   "maxLevel": 11,
-   "elixirCost": 5,
-   "rarity": "epic",
+   "id": 28000000,
+   "name": "Fireball",
+   "maxLevel": 14,
+   "elixirCost": 4,
+   "rarity": "rare",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png",
-    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
    }
   },
   "currentDeck": [
@@ -154,6 +153,81 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T110519.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "juns",
+     "tag": "#VV9GYPURC",
+     "crowns": 0,
+     "cards": [
+      28000004,
+      26000000,
+      26000040,
+      26000030,
+      26000041,
+      26000026,
+      28000011,
+      27000003
+     ]
+    }
+   ]
+  },
+  {
+   "type": "trail",
+   "battleTime": "20261022T105701.000Z",
+   "gameMode": {
+    "id": 72000534,
+    "name": "Crazy_Arena_Blackout"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1
+    }
+   ],
+   "opponent": [
+    {
+     "name": "tornado",
+     "tag": "#9QUR290G0",
+     "crowns": 0,
+     "cards": [
+      26000055,
+      26000042,
+      26000040,
+      28000000,
+      26000064,
+      28000011,
+      27000004,
+      26000059
+     ]
+    }
+   ]
+  },
   {
    "type": "trail",
    "battleTime": "20261021T154956.000Z",
@@ -1009,85 +1083,6 @@
       26000041,
       26000040,
       28000001
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261017T084909.000Z",
-   "gameMode": {
-    "id": 72000533,
-    "name": "202610_Event_Spooky_Chess"
-   },
-   "arena": {
-    "id": 54000095,
-    "name": "Legendary Arena",
-    "rawName": "202410_Arena_Spooky_Chess"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 2,
-     "trophyChange": 1,
-     "startingTrophies": 2
-    }
-   ],
-   "opponent": [
-    {
-     "name": "MoZa",
-     "tag": "#Y2LCYVY2C",
-     "crowns": 1,
-     "startingTrophies": 3,
-     "cards": [
-      26000045,
-      26000034,
-      26000063,
-      27000006,
-      28000008,
-      26000056,
-      26000085,
-      28000001
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261017T084147.000Z",
-   "gameMode": {
-    "id": 72000533,
-    "name": "202610_Event_Spooky_Chess"
-   },
-   "arena": {
-    "id": 54000095,
-    "name": "Legendary Arena",
-    "rawName": "202410_Arena_Spooky_Chess"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "startingTrophies": 2
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Love tooms",
-     "tag": "#88JYVRJP2",
-     "crowns": 2,
-     "startingTrophies": 2,
-     "cards": [
-      26000060,
-      26000039,
-      28000008,
-      26000033,
-      26000018,
-      26000027,
-      26000042,
-      28000026
      ]
     }
    ]
