@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-22T11:57:28.722Z",
+  "updated": "2026-10-22T17:14:10.728Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,10 +11,10 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4397,
-  "losses": 4125,
-  "battleCount": 8522,
-  "threeCrownWins": 1999,
+  "wins": 4401,
+  "losses": 4128,
+  "battleCount": 8529,
+  "threeCrownWins": 2000,
   "arena": {
    "id": 54000144,
    "name": "Spirit Square",
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 171,
-  "totalDonations": 47070,
+  "donations": 224,
+  "totalDonations": 47123,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,13 +39,15 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 28000000,
-   "name": "Fireball",
+   "id": 26000014,
+   "name": "Musketeer",
    "maxLevel": 14,
    "elixirCost": 4,
    "rarity": "rare",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
+    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
+    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
    }
   },
   "currentDeck": [
@@ -153,6 +155,269 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T164800.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Andresinhh",
+     "tag": "#2LVPGGJQY",
+     "crowns": 1,
+     "cards": [
+      26000056,
+      26000023,
+      26000026,
+      28000004,
+      26000000,
+      26000041,
+      26000040,
+      26000030
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T164237.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Lucasytlike",
+     "tag": "#898C2C2U8",
+     "crowns": 0,
+     "cards": [
+      26000064,
+      26000085,
+      26000007,
+      28000001,
+      26000041,
+      26000021,
+      28000008,
+      26000016
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T160714.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "PiinwO",
+     "tag": "#28UC0PPJR",
+     "crowns": 0,
+     "cards": [
+      26000035,
+      26000000,
+      26000045,
+      28000008,
+      26000021,
+      26000023,
+      26000042,
+      26000001
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T160058.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "matar",
+     "tag": "#2C8882L",
+     "crowns": 1,
+     "cards": [
+      26000055,
+      26000011,
+      26000017,
+      28000015,
+      26000040,
+      26000064,
+      28000004,
+      28000006
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T153458.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Manigoldo",
+     "tag": "#U8GRVLRYP",
+     "crowns": 1,
+     "cards": [
+      26000064,
+      26000102,
+      26000055,
+      28000001,
+      26000056,
+      26000049,
+      26000021,
+      27000012
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T153019.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 3,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Nilye",
+     "tag": "#90UUJJGV",
+     "crowns": 0,
+     "cards": [
+      27000013,
+      26000000,
+      28000017,
+      28000009,
+      26000013,
+      26000031,
+      26000010,
+      27000006
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261022T152027.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "tbag",
+     "tag": "#PGUUCV0CU",
+     "crowns": 0,
+     "cards": [
+      26000064,
+      26000103,
+      26000035,
+      26000106,
+      26000021,
+      28000001,
+      28000018,
+      27000006
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261022T110519.000Z",
@@ -817,272 +1082,6 @@
       26000049,
       26000021,
       26000033
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261019T024848.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Hunter",
-     "tag": "#8P29QC20G",
-     "crowns": 1,
-     "cards": [
-      26000055,
-      26000064,
-      26000017,
-      26000018,
-      28000001,
-      26000037,
-      26000067,
-      28000011
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261019T024455.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "SPARK",
-     "tag": "#UJCUJ8GCP",
-     "crowns": 0,
-     "cards": [
-      26000010,
-      26000014,
-      27000000,
-      26000038,
-      26000030,
-      26000107,
-      28000011,
-      28000000
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261019T024046.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 2,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "??????????",
-     "tag": "#2J29PVVCJ",
-     "crowns": 1,
-     "cards": [
-      26000024,
-      26000014,
-      26000064,
-      26000040,
-      27000010,
-      26000012,
-      26000021,
-      26000011
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261017T145805.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Gabriel Backes",
-     "tag": "#29V9Y0GQ9",
-     "crowns": 1,
-     "cards": [
-      27000010,
-      26000011,
-      26000010,
-      26000084,
-      26000021,
-      28000011,
-      27000001,
-      28000000
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261017T145424.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Libha ¹⁴ ⚡",
-     "tag": "#9PL8J0U2P",
-     "crowns": 1,
-     "cards": [
-      26000020,
-      26000017,
-      26000049,
-      28000001,
-      26000016,
-      26000021,
-      26000046,
-      26000041
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261017T085706.000Z",
-   "gameMode": {
-    "id": 72000533,
-    "name": "202610_Event_Spooky_Chess"
-   },
-   "arena": {
-    "id": 54000095,
-    "name": "Legendary Arena",
-    "rawName": "202410_Arena_Spooky_Chess"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "startingTrophies": 4
-    }
-   ],
-   "opponent": [
-    {
-     "name": "NiKrOmAnT-2",
-     "tag": "#CC8LRYRC",
-     "crowns": 2,
-     "startingTrophies": 3,
-     "cards": [
-      26000049,
-      26000093,
-      28000017,
-      26000035,
-      28000001,
-      28000006,
-      26000101,
-      26000015
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261017T085129.000Z",
-   "gameMode": {
-    "id": 72000533,
-    "name": "202610_Event_Spooky_Chess"
-   },
-   "arena": {
-    "id": 54000095,
-    "name": "Legendary Arena",
-    "rawName": "202410_Arena_Spooky_Chess"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 3,
-     "trophyChange": 1,
-     "startingTrophies": 3
-    }
-   ],
-   "opponent": [
-    {
-     "name": "elle",
-     "tag": "#VQC0YVYG9",
-     "crowns": 1,
-     "startingTrophies": 3,
-     "cards": [
-      26000055,
-      26000011,
-      26000007,
-      26000017,
-      26000012,
-      26000041,
-      26000040,
-      28000001
      ]
     }
    ]
