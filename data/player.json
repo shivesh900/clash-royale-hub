@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-24T15:59:36.599Z",
+  "updated": "2026-10-24T20:53:11.902Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -12,8 +12,8 @@
   "trophies": 14000,
   "bestTrophies": 14000,
   "wins": 4415,
-  "losses": 4141,
-  "battleCount": 8556,
+  "losses": 4142,
+  "battleCount": 8557,
   "threeCrownWins": 2003,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 314,
-  "totalDonations": 47213,
+  "donations": 340,
+  "totalDonations": 47239,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 3,
    "trophies": 0,
@@ -154,6 +154,43 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261024T171449.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "ElVis",
+     "tag": "#VR2Q8CYGR",
+     "crowns": 1,
+     "cards": [
+      26000055,
+      26000006,
+      26000007,
+      28000005,
+      28000008,
+      26000034,
+      26000041,
+      26000035
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261024T091719.000Z",
@@ -1060,45 +1097,6 @@
       26000014,
       26000049,
       26000015
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261023T063057.000Z",
-   "gameMode": {
-    "id": 72000532,
-    "name": "Event_GlobalLightning_EventDeck"
-   },
-   "arena": {
-    "id": 54000086,
-    "name": "Legendary Arena",
-    "rawName": "Arena_Electric2_March_GlobalLightning"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0,
-     "startingTrophies": 2
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Gugang civic",
-     "tag": "#QCV0JPV",
-     "crowns": 1,
-     "startingTrophies": 2,
-     "cards": [
-      26000056,
-      26000058,
-      28000004,
-      26000106,
-      26000012,
-      26000097,
-      26000015,
-      27000006
      ]
     }
    ]
