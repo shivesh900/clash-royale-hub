@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-25T04:46:32.760Z",
+  "updated": "2026-10-25T16:26:44.024Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4417,
-  "losses": 4144,
-  "battleCount": 8561,
+  "wins": 4418,
+  "losses": 4145,
+  "battleCount": 8563,
   "threeCrownWins": 2003,
   "arena": {
    "id": 54000144,
@@ -39,14 +39,14 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 27000002,
-   "name": "Mortar",
-   "maxLevel": 16,
-   "elixirCost": 4,
-   "rarity": "common",
+   "id": 26000034,
+   "name": "Bowler",
+   "maxLevel": 11,
+   "elixirCost": 5,
+   "rarity": "epic",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png",
-    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png",
+    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
    }
   },
   "currentDeck": [
@@ -154,6 +154,81 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261025T045341.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Cereal Killer",
+     "tag": "#V02RCQ2JL",
+     "crowns": 0,
+     "cards": [
+      26000049,
+      26000023,
+      27000000,
+      26000107,
+      26000000,
+      28000015,
+      26000010,
+      28000000
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261025T044927.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Sxbastiaaan",
+     "tag": "#V9G98LCV",
+     "crowns": 1,
+     "cards": [
+      26000026,
+      26000000,
+      28000003,
+      28000011,
+      27000003,
+      26000041,
+      26000030,
+      28000004
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261025T044009.000Z",
@@ -1012,82 +1087,6 @@
       26000040,
       28000011,
       26000049
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261023T073942.000Z",
-   "gameMode": {
-    "id": 72000450,
-    "name": "Ranked1v1_NewArena"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "زهرا yt",
-     "tag": "#JPQU89YVL",
-     "crowns": 1,
-     "cards": [
-      26000026,
-      28000011,
-      26000011,
-      26000007,
-      26000056,
-      26000041,
-      28000004,
-      27000003
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261023T073404.000Z",
-   "gameMode": {
-    "id": 72000532,
-    "name": "Event_GlobalLightning_EventDeck"
-   },
-   "arena": {
-    "id": 54000086,
-    "name": "Legendary Arena",
-    "rawName": "Arena_Electric2_March_GlobalLightning"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0,
-     "startingTrophies": 5
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Nikitos6K",
-     "tag": "#8C8PQYVJ0",
-     "crowns": 1,
-     "startingTrophies": 5,
-     "cards": [
-      27000013,
-      26000000,
-      28000017,
-      26000010,
-      28000009,
-      26000031,
-      27000004,
-      26000013
      ]
     }
    ]
