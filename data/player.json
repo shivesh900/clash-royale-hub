@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-10-30T22:24:14.062Z",
+  "updated": "2026-10-31T05:49:05.167Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4431,
-  "losses": 4163,
-  "battleCount": 8594,
+  "wins": 4432,
+  "losses": 4164,
+  "battleCount": 8596,
   "threeCrownWins": 2006,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "goblin gang",
    "badgeId": 16000154
   },
-  "donations": 198,
-  "totalDonations": 47481,
+  "donations": 242,
+  "totalDonations": 47525,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 3,
    "trophies": 0,
@@ -39,15 +39,14 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000014,
-   "name": "Musketeer",
-   "maxLevel": 14,
-   "elixirCost": 4,
-   "rarity": "rare",
+   "id": 26000034,
+   "name": "Bowler",
+   "maxLevel": 11,
+   "elixirCost": 5,
+   "rarity": "epic",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
-    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png",
-    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png",
+    "heroMedium": "https://api-assets.clashroyale.com/cardheroes/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
    }
   },
   "currentDeck": [
@@ -155,6 +154,81 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261031T045751.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Chubito™️",
+     "tag": "#2R8GUC0GJ",
+     "crowns": 1,
+     "cards": [
+      26000035,
+      26000015,
+      26000025,
+      26000032,
+      26000042,
+      27000000,
+      28000011,
+      28000009
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261031T045220.000Z",
+   "gameMode": {
+    "id": 72000450,
+    "name": "Ranked1v1_NewArena"
+   },
+   "arena": {
+    "id": 54000161,
+    "name": "Legendary Arena",
+    "rawName": "Arena_shocktober"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "James",
+     "tag": "#LG2PVC8",
+     "crowns": 0,
+     "cards": [
+      26000035,
+      26000074,
+      26000017,
+      26000006,
+      28000011,
+      26000025,
+      26000049,
+      26000051
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261030T035657.000Z",
@@ -1021,84 +1095,6 @@
       28000001,
       28000015,
       26000042
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261026T112505.000Z",
-   "gameMode": {
-    "id": 72000474,
-    "name": "Challenge_AllCards_EventDeck_NoSet"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 3,
-     "trophyChange": 1,
-     "startingTrophies": 1
-    }
-   ],
-   "opponent": [
-    {
-     "name": "mm8",
-     "tag": "#VQUJVJJ8J",
-     "crowns": 1,
-     "startingTrophies": 1,
-     "cards": [
-      28000004,
-      26000072,
-      26000010,
-      28000024,
-      26000012,
-      28000011,
-      26000106,
-      28000013
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261026T112119.000Z",
-   "gameMode": {
-    "id": 72000474,
-    "name": "Challenge_AllCards_EventDeck_NoSet"
-   },
-   "arena": {
-    "id": 54000161,
-    "name": "Legendary Arena",
-    "rawName": "Arena_shocktober"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 1
-    }
-   ],
-   "opponent": [
-    {
-     "name": "javadvafaei",
-     "tag": "#CUR80YQ2Q",
-     "crowns": 0,
-     "cards": [
-      26000007,
-      26000000,
-      26000018,
-      26000080,
-      26000020,
-      28000001,
-      26000026,
-      27000010
      ]
     }
    ]
