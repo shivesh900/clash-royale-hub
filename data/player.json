@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-03T06:52:26.180Z",
+  "updated": "2026-11-03T17:05:52.183Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 8,
-  "totalDonations": 47601,
+  "donations": 16,
+  "totalDonations": 47609,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 1,
    "trophies": 0,
