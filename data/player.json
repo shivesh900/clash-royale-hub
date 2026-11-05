@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-05T06:52:23.761Z",
+  "updated": "2026-11-05T17:26:14.975Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,10 +11,10 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4455,
-  "losses": 4199,
-  "battleCount": 8654,
-  "threeCrownWins": 2011,
+  "wins": 4457,
+  "losses": 4200,
+  "battleCount": 8657,
+  "threeCrownWins": 2012,
   "arena": {
    "id": 54000144,
    "name": "Spirit Square",
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 74,
-  "totalDonations": 47667,
+  "donations": 82,
+  "totalDonations": 47675,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 1,
    "trophies": 0,
@@ -155,6 +155,119 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261105T170906.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "ジャンプ",
+     "tag": "#Q8YL2GGVJ",
+     "crowns": 3,
+     "cards": [
+      26000036,
+      26000027,
+      26000042,
+      26000004,
+      26000083,
+      27000010,
+      28000001,
+      28000008
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261105T135746.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 2,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Rogério ceni",
+     "tag": "#PQUL8J2YL",
+     "crowns": 1,
+     "cards": [
+      26000035,
+      26000011,
+      27000010,
+      26000048,
+      28000006,
+      26000036,
+      28000001,
+      26000057
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261105T134241.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 3,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "KOL2",
+     "tag": "#YRVYLVYQ",
+     "crowns": 0,
+     "cards": [
+      26000049,
+      26000077,
+      26000102,
+      26000106,
+      26000043,
+      26000083,
+      26000018,
+      28000001
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261105T061747.000Z",
@@ -973,117 +1086,6 @@
       28000004,
       26000012,
       28000001
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261104T062941.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "heperion",
-     "tag": "#GPRRV299Q",
-     "crowns": 1,
-     "cards": [
-      26000010,
-      26000018,
-      26000040,
-      26000007,
-      28000000,
-      28000001,
-      26000035,
-      26000003
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261104T062625.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Gaboo",
-     "tag": "#2JVLJYYJC",
-     "crowns": 2,
-     "cards": [
-      26000063,
-      26000056,
-      26000047,
-      26000011,
-      26000057,
-      28000001,
-      28000015,
-      28000000
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261104T062228.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Plzzzyy",
-     "tag": "#9VJ8098JU",
-     "crowns": 1,
-     "cards": [
-      27000000,
-      26000010,
-      26000045,
-      26000106,
-      28000011,
-      28000025,
-      28000000,
-      26000021
      ]
     }
    ]
