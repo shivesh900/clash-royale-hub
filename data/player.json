@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-10T03:35:55.091Z",
+  "updated": "2026-11-10T14:56:38.837Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4473,
+  "wins": 4474,
   "losses": 4210,
-  "battleCount": 8683,
+  "battleCount": 8684,
   "threeCrownWins": 2019,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 24,
-  "totalDonations": 47824,
+  "donations": 32,
+  "totalDonations": 47832,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -155,6 +155,44 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261110T043306.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "☠JOSÉ cenobio☠",
+     "tag": "#2J8CYLQL",
+     "crowns": 0,
+     "cards": [
+      26000055,
+      26000074,
+      26000045,
+      26000048,
+      26000032,
+      28000001,
+      26000039,
+      28000008
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261109T131141.000Z",
@@ -1049,44 +1087,6 @@
       28000004,
       26000040,
       26000018
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261106T042010.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "Goblin.com",
-     "tag": "#CY0J0J0V0",
-     "crowns": 0,
-     "cards": [
-      26000035,
-      26000006,
-      26000055,
-      28000003,
-      26000030,
-      28000001,
-      26000005,
-      27000003
      ]
     }
    ]
