@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-12T11:19:36.097Z",
+  "updated": "2026-11-12T19:57:57.517Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4474,
+  "wins": 4475,
   "losses": 4210,
-  "battleCount": 8684,
+  "battleCount": 8685,
   "threeCrownWins": 2019,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 32,
-  "totalDonations": 47832,
+  "donations": 42,
+  "totalDonations": 47842,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -155,6 +155,44 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261112T132859.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Özcän Härölmïr",
+     "tag": "#PL00U89JG",
+     "crowns": 0,
+     "cards": [
+      28000017,
+      26000103,
+      28000008,
+      26000025,
+      26000020,
+      26000042,
+      26000018,
+      26000026
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261110T043306.000Z",
@@ -1050,43 +1088,6 @@
       26000083,
       26000046,
       28000008
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261106T043804.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1
-    }
-   ],
-   "opponent": [
-    {
-     "name": "marty99",
-     "tag": "#2RY9RURUG",
-     "crowns": 2,
-     "cards": [
-      26000055,
-      26000011,
-      26000007,
-      28000011,
-      28000008,
-      28000004,
-      26000040,
-      26000018
      ]
     }
    ]
