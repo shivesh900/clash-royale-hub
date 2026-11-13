@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-13T01:51:40.872Z",
+  "updated": "2026-11-13T11:04:11.662Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4475,
-  "losses": 4210,
-  "battleCount": 8685,
+  "wins": 4476,
+  "losses": 4211,
+  "battleCount": 8687,
   "threeCrownWins": 2019,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 42,
-  "totalDonations": 47842,
+  "donations": 50,
+  "totalDonations": 47850,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -155,6 +155,81 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261113T050054.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "trophyChange": 30
+    }
+   ],
+   "opponent": [
+    {
+     "name": "weilyn",
+     "tag": "#8URYVCQL0",
+     "crowns": 0,
+     "cards": [
+      26000007,
+      26000027,
+      27000006,
+      26000020,
+      28000001,
+      28000012,
+      26000042,
+      26000041
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pathOfLegend",
+   "battleTime": "20261113T040053.000Z",
+   "gameMode": {
+    "id": 72000464,
+    "name": "Ranked1v1_NewArena2"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Dork",
+     "tag": "#P92JGR9U",
+     "crowns": 1,
+     "cards": [
+      26000010,
+      26000006,
+      26000014,
+      28000015,
+      26000032,
+      26000038,
+      27000004,
+      28000017
+     ]
+    }
+   ]
+  },
   {
    "type": "pathOfLegend",
    "battleTime": "20261112T132859.000Z",
@@ -1013,81 +1088,6 @@
       26000030,
       26000010,
       26000006
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261106T044826.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "guille",
-     "tag": "#9JJ8CPYL",
-     "crowns": 1,
-     "cards": [
-      26000064,
-      26000014,
-      26000055,
-      28000025,
-      26000030,
-      26000038,
-      28000011,
-      28000009
-     ]
-    }
-   ]
-  },
-  {
-   "type": "pathOfLegend",
-   "battleTime": "20261106T044304.000Z",
-   "gameMode": {
-    "id": 72000464,
-    "name": "Ranked1v1_NewArena2"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 1,
-     "trophyChange": 30
-    }
-   ],
-   "opponent": [
-    {
-     "name": "O.Aguilar",
-     "tag": "#U0GPCRQ02",
-     "crowns": 0,
-     "cards": [
-      26000004,
-      26000021,
-      26000012,
-      26000084,
-      26000042,
-      26000083,
-      26000046,
-      28000008
      ]
     }
    ]
