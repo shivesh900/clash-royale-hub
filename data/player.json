@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-21T02:20:36.671Z",
+  "updated": "2026-11-21T11:09:59.600Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -11,9 +11,9 @@
   "expLevel": 70,
   "trophies": 14000,
   "bestTrophies": 14000,
-  "wins": 4494,
-  "losses": 4225,
-  "battleCount": 8719,
+  "wins": 4496,
+  "losses": 4226,
+  "battleCount": 8722,
   "threeCrownWins": 2029,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 130,
-  "totalDonations": 48068,
+  "donations": 146,
+  "totalDonations": 48084,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -39,14 +39,14 @@
    "rank": null
   },
   "currentFavouriteCard": {
-   "id": 26000007,
-   "name": "Witch",
+   "id": 26000004,
+   "name": "P.E.K.K.A",
    "maxLevel": 11,
-   "elixirCost": 5,
+   "elixirCost": 7,
    "rarity": "epic",
    "iconUrls": {
-    "medium": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png",
-    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+    "medium": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png",
+    "evolutionMedium": "https://api-assets.clashroyale.com/cardevolutions/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
    }
   },
   "currentDeck": [
@@ -155,6 +155,149 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "unknown",
+   "battleTime": "20261121T073333.000Z",
+   "gameMode": {
+    "id": 72000513,
+    "name": "Competitive_Multideck"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 2,
+     "trophyChange": 1,
+     "startingTrophies": 3
+    }
+   ],
+   "opponent": [
+    {
+     "name": "SAINT & SINNER",
+     "tag": "#JUR0GPGY2",
+     "crowns": 0,
+     "startingTrophies": 3,
+     "cards": [
+      27000010,
+      26000042,
+      26000035,
+      26000020,
+      26000046,
+      26000036,
+      28000001,
+      28000016,
+      26000007,
+      26000027,
+      26000056,
+      26000018,
+      26000055,
+      26000064,
+      28000015,
+      26000041
+     ]
+    }
+   ]
+  },
+  {
+   "type": "unknown",
+   "battleTime": "20261121T072429.000Z",
+   "gameMode": {
+    "id": 72000513,
+    "name": "Competitive_Multideck"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 2,
+     "trophyChange": 1,
+     "startingTrophies": 2
+    }
+   ],
+   "opponent": [
+    {
+     "name": "machtarm",
+     "tag": "#20VC8R82R",
+     "crowns": 0,
+     "startingTrophies": 2,
+     "cards": [
+      26000055,
+      26000014,
+      26000063,
+      28000001,
+      28000004,
+      26000041,
+      28000009,
+      26000027,
+      26000004,
+      26000011,
+      26000017,
+      26000040,
+      28000011,
+      26000049,
+      26000084,
+      27000006
+     ]
+    }
+   ]
+  },
+  {
+   "type": "unknown",
+   "battleTime": "20261121T071549.000Z",
+   "gameMode": {
+    "id": 72000513,
+    "name": "Competitive_Multideck"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 0,
+     "startingTrophies": 2
+    }
+   ],
+   "opponent": [
+    {
+     "name": "lle",
+     "tag": "#200GJR0PVC",
+     "crowns": 2,
+     "startingTrophies": 2,
+     "cards": [
+      26000007,
+      26000034,
+      28000017,
+      26000003,
+      28000010,
+      26000052,
+      26000025,
+      28000001,
+      26000085,
+      26000023,
+      26000044,
+      28000015,
+      28000007,
+      27000001,
+      26000027,
+      28000012
+     ]
+    }
+   ]
+  },
   {
    "type": "unknown",
    "battleTime": "20261120T162538.000Z",
@@ -1009,127 +1152,6 @@
       28000011,
       26000003,
       26000033
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261117T041144.000Z",
-   "gameMode": {
-    "id": 72000474,
-    "name": "Challenge_AllCards_EventDeck_NoSet"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "暗LI9OHK暗IT",
-     "tag": "#909U09UJ8",
-     "crowns": 1,
-     "cards": [
-      26000044,
-      26000000,
-      26000026,
-      26000107,
-      26000010,
-      26000084,
-      28000015,
-      28000000
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261117T040536.000Z",
-   "gameMode": {
-    "id": 72000474,
-    "name": "Challenge_AllCards_EventDeck_NoSet"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "zain",
-     "tag": "#200QRVCCG8",
-     "crowns": 1,
-     "cards": [
-      26000010,
-      26000014,
-      27000000,
-      26000021,
-      26000038,
-      26000030,
-      28000000,
-      28000011
-     ]
-    }
-   ]
-  },
-  {
-   "type": "unknown",
-   "battleTime": "20261115T111023.000Z",
-   "gameMode": {
-    "id": 72000513,
-    "name": "Competitive_Multideck"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0,
-     "startingTrophies": 5
-    }
-   ],
-   "opponent": [
-    {
-     "name": "GERALD DE RIVIA",
-     "tag": "#QLQ0RGLG8",
-     "crowns": 2,
-     "startingTrophies": 5,
-     "cards": [
-      28000017,
-      26000011,
-      27000006,
-      26000031,
-      28000009,
-      26000095,
-      26000010,
-      27000013,
-      26000036,
-      26000042,
-      26000035,
-      26000046,
-      26000020,
-      28000001,
-      27000010,
-      28000016
      ]
     }
    ]
