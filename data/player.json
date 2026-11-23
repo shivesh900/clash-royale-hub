@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-23T01:46:21.663Z",
+  "updated": "2026-11-23T12:52:55.699Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -12,8 +12,8 @@
   "trophies": 14000,
   "bestTrophies": 14000,
   "wins": 4496,
-  "losses": 4226,
-  "battleCount": 8722,
+  "losses": 4227,
+  "battleCount": 8723,
   "threeCrownWins": 2029,
   "arena": {
    "id": 54000144,
@@ -26,8 +26,8 @@
    "name": "TEAM - 1SA",
    "badgeId": 16000124
   },
-  "donations": 146,
-  "totalDonations": 48084,
+  "donations": 8,
+  "totalDonations": 48092,
   "currentPathOfLegendSeasonResult": {
    "leagueNumber": 2,
    "trophies": 0,
@@ -155,6 +155,61 @@
   "cardsOwned": 123
  },
  "battles": [
+  {
+   "type": "unknown",
+   "battleTime": "20261123T060415.000Z",
+   "gameMode": {
+    "id": 72000513,
+    "name": "Competitive_Multideck"
+   },
+   "arena": {
+    "id": 54000163,
+    "name": "Legendary Arena",
+    "rawName": "Arena_competitive"
+   },
+   "team": [
+    {
+     "name": "Shiveshharan SH",
+     "tag": "#88GUYV9J9",
+     "crowns": 1,
+     "startingTrophies": 4
+    }
+   ],
+   "opponent": [
+    {
+     "name": "Pablito Mix",
+     "tag": "#YJ0J8CV0",
+     "crowns": 3,
+     "startingTrophies": 4,
+     "cards": [
+      26000050,
+      26000023,
+      27000006,
+      26000084,
+      26000107,
+      28000015,
+      28000007,
+      26000010,
+      26000007,
+      26000069,
+      26000058,
+      26000000,
+      26000102,
+      26000083,
+      28000000,
+      26000056,
+      26000004,
+      26000042,
+      26000055,
+      26000046,
+      28000001,
+      28000008,
+      26000021,
+      26000049
+     ]
+    }
+   ]
+  },
   {
    "type": "unknown",
    "battleTime": "20261121T073333.000Z",
@@ -1115,43 +1170,6 @@
       26000030,
       28000000,
       28000011
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trail",
-   "battleTime": "20261117T141456.000Z",
-   "gameMode": {
-    "id": 72000474,
-    "name": "Challenge_AllCards_EventDeck_NoSet"
-   },
-   "arena": {
-    "id": 54000163,
-    "name": "Legendary Arena",
-    "rawName": "Arena_competitive"
-   },
-   "team": [
-    {
-     "name": "Shiveshharan SH",
-     "tag": "#88GUYV9J9",
-     "crowns": 0
-    }
-   ],
-   "opponent": [
-    {
-     "name": "amirali",
-     "tag": "#RPLRQC900",
-     "crowns": 1,
-     "cards": [
-      26000012,
-      26000017,
-      26000018,
-      26000042,
-      28000008,
-      28000011,
-      26000003,
-      26000033
      ]
     }
    ]
