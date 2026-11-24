@@ -1,7 +1,7 @@
 {
  "meta": {
   "tag": "#88GUYV9J9",
-  "updated": "2026-11-24T13:48:36.587Z",
+  "updated": "2026-11-24T23:54:56.315Z",
   "status": "ok",
   "source": "Clash Royale API"
  },
@@ -417,7 +417,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261123T060415.000Z",
    "gameMode": {
     "id": 72000513,
@@ -472,7 +472,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261121T073333.000Z",
    "gameMode": {
     "id": 72000513,
@@ -520,7 +520,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261121T072429.000Z",
    "gameMode": {
     "id": 72000513,
@@ -568,7 +568,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261121T071549.000Z",
    "gameMode": {
     "id": 72000513,
@@ -615,7 +615,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261120T162538.000Z",
    "gameMode": {
     "id": 72000513,
@@ -663,7 +663,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261120T161615.000Z",
    "gameMode": {
     "id": 72000513,
@@ -710,7 +710,7 @@
    ]
   },
   {
-   "type": "unknown",
+   "type": "competitiveDuel",
    "battleTime": "20261120T160516.000Z",
    "gameMode": {
     "id": 72000513,
